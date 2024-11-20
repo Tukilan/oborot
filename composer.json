@@ -1,0 +1,12 @@
+{
+    "name": "webdev/htdocs",
+    "authors": [
+        {
+            "name": "Tukilan",
+            "email": "Tukilan@ya.ru"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+}
